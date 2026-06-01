@@ -1,0 +1,13 @@
+Job start
+Config loaded seed=42 window=5 version=v1
+Rows loaded=10000
+Rolling mean computed
+Signals generated
+Metrics={'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 1, 'seed': 42, 'status': 'success'}
+Job end status=success
+2026-06-01 22:03:02,385 INFO Job start
+2026-06-01 22:03:02,404 INFO Rows loaded: 10000
+2026-06-01 22:58:36,355 INFO Job start
+2026-06-01 22:58:36,424 INFO Rows loaded: 10000
+2026-06-01 23:05:27,390 INFO Job start
+2026-06-01 23:05:27,434 INFO Rows loaded: 10000
